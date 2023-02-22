@@ -2,7 +2,7 @@ import OnlineEditor from "../assets/projects/OnlineEditor.png";
 import SlackClone from "../assets/projects/SlackClone.png";
 import TailWind from "../assets/projects/Tailwind.png";
 import ChakraUi from "../assets/projects/Chakra.png";
-
+import StreamYoutube from "../assets/projects/StreamYoutube.png";
 export const data = [
   {
     id: 1,
@@ -32,5 +32,12 @@ export const data = [
     github:
       "https://github.com/Chitturi-NaveenKumar/React-ChakraUi-TodoApplication",
     live: "",
+  },
+  {
+    id: 5,
+    name: "ReactJS+ MaterialUI+ RapidAPI",
+    image: StreamYoutube,
+    github: "https://github.com/Chitturi-NaveenKumar/youtube-Clone.git",
+    live: "https://stream-youtube.netlify.app/",
   },
 ];
